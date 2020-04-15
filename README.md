@@ -73,9 +73,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 * [ECharts](http://echarts.baidu.com/option.html)
 * [Stylus](http://stylus-lang.com/)
 
-### Donate
-If you find this project useful, you can buy author a glass of juice :tropical_drink:
-
 ## License
 
 [MIT](https://github.com/tookit/vue-material-admin/blob/master/LICENSE)
